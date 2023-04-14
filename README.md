@@ -28,7 +28,7 @@ click this button
 
 You will land in a page that shows you all the magic that is behind running binder. After a while, you will land into this page:
 
-<img src="img/landing binder.png" alt="Binder landing page" width="400"/>
+<img src="img/mybinder-config.png" alt="Binder landing page" width="400"/>
 
 Click on the folder icon on the left, and you will see all the available notebooks. Open the one of your
 choice, check that the `Kernel` on the right is properly selected. 
