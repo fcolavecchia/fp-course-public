@@ -35,11 +35,11 @@ choice, check that the `Kernel` on the right is properly selected.
 
 It automatically detects .NET C\#, 
 
-<img src="img/do not want csharp.png" alt="I do not want C#" width="400"/>
+<img src="img/i-do-not-want-csharp.png" alt="I do not want C#" width="400"/>
 
 but that is not the language you are looking for:
 
-<img src="img/select fsharp.png" alt="This is it" width="400"/>
+<img src="img/i-want-fsharp.png" alt="This is it" width="400"/>
 
 and you are good to go.
 
