@@ -1,0 +1,7 @@
+#!/bin/bash
+set -ex
+
+export DOTNET_ROOT="/srv/conda/envs/notebook/lib/dotnet"
+export PATH=$PATH:$DOTNET_ROOT:~/.dotnet/tools
+
+exec "$@"

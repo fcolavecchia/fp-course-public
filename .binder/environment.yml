@@ -1,0 +1,6 @@
+name: dotnet7.0
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - dotnet=7.0
