@@ -4,31 +4,31 @@
 
 En español, próximamente en otros idiomas...
 
-- [¿Qué es F#?  ](es/Intro.ipynb)
-- [Fundamentos  ](es/Fundamentals_new.ipynb)
-- [¿Qué es una función?  ](es/Functions_new.ipynb)
-- [Ejercicios sobre funciones   ](es/Exercises.ipynb)
-- [Más sobre funciones   ](es/MasSobreFunciones.ipynb)    
-- [Pensar con tipos   ](es/IntroToTypes_es.ipynb)        
-- [Discriminated Unions  ](es/DiscriminatedUnions_es.ipynb) 
-- [Records  ](es/Records_es.ipynb)
-- [Ejercicios de tipos   ](es/Exercises.ipynb)
-- [Manejando por las ramas   ](es/ControlFlow.ipynb)      
-- [Ejercicios  ](es/Exercises.ipynb) 
-- [Tuplas   ](es/Tuples.ipynb)
-- [Colecciones   ](es/OnCollections.ipynb) 
-- [Ejercicios  ](es/Exercises.ipynb)
-- [Más sobre Colecciones   ](es/MoreOnCollections.ipynb)
-- [Diccionarios   ](es/Maps.ipynb)
-- [Excepciones   ](es/Exceptions.ipynb)
-- [Ejercicios  ](es/Exercises.ipynb)
-- [El tipo Result   ](es/Results.ipynb)
-- [Unidades de medida   ](es/Units.ipynb) 
-- [Un kata clásico  ](es/Exercises.ipynb)
-- [Secuencias    ](es/YetAnotherTakeOnCollections.ipynb)
-- [Leyendo y escribiendo archivos   ](es/IO.ipynb)
-- [Ejercicios  ](es/Exercises.ipynb) 
-- [Resources   ](es/_resources.ipynb) 
+- [¿Qué es F#?  ](blob/main/es/Intro.ipynb)
+- [Fundamentos  ](blob/main/es/Fundamentals_new.ipynb)
+- [¿Qué es una función?  ](blob/main/es/Functions_new.ipynb)
+<!-- - [Ejercicios sobre funciones   ](blob/main/es/Exercises.ipynb) -->
+- [Más sobre funciones   ](blob/main/es/MasSobreFunciones.ipynb)    
+- [Pensar con tipos   ](blob/main/es/IntroToTypes_es.ipynb)        
+- [Discriminated Unions  ](blob/main/es/DiscriminatedUnions_es.ipynb) 
+- [Records  ](blob/main/es/Records_es.ipynb)
+<!-- - [Ejercicios de tipos   ](blob/main/es/Exercises.ipynb) -->
+- [Manejando por las ramas   ](blob/main/es/ControlFlow.ipynb)      
+<!-- - [Ejercicios  ](blob/main/es/Exercises.ipynb)  -->
+- [Tuplas   ](blob/main/es/Tuples.ipynb)
+- [Colecciones   ](blob/main/es/OnCollections.ipynb) 
+<!-- - [Ejercicios  ](blob/main/es/Exercises.ipynb) -->
+- [Más sobre Colecciones   ](blob/main/es/MoreOnCollections.ipynb)
+- [Diccionarios   ](blob/main/es/Maps.ipynb)
+- [Excepciones   ](blob/main/es/Exceptions.ipynb)
+<!-- - [Ejercicios  ](blob/main/es/Exercises.ipynb) -->
+- [El tipo Result   ](blob/main/es/Results.ipynb)
+- [Unidades de medida   ](blob/main/es/Units.ipynb) 
+<!-- - [Un kata clásico  ](blob/main/es/Exercises.ipynb) -->
+- [Secuencias    ](blob/main/es/YetAnotherTakeOnCollections.ipynb)
+- [Leyendo y escribiendo archivos   ](blob/main/es/IO.ipynb)
+<!-- - [Ejercicios  ](blob/main/es/Exercises.ipynb)  -->
+- [Resources   ](blob/main/es/_resources.ipynb) 
 
 ## Introduction
 
