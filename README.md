@@ -1,6 +1,36 @@
 # F#: your first functional programming language
 
-> This is a work in progress.
+## Index 
+
+En español, próximamente en otros idiomas...
+
+- [¿Qué es F#?  ](es/Intro.ipynb)
+- [Fundamentos  ](es/Fundamentals_new.ipynb)
+- [¿Qué es una función?  ](es/Functions_new.ipynb)
+- [Ejercicios sobre funciones   ](es/Exercises.ipynb)
+- [Más sobre funciones   ](es/MasSobreFunciones.ipynb)    
+- [Pensar con tipos   ](es/IntroToTypes_es.ipynb)        
+- [Discriminated Unions  ](es/DiscriminatedUnions_es.ipynb) 
+- [Records  ](es/Records_es.ipynb)
+- [Ejercicios de tipos   ](es/Exercises.ipynb)
+- [Manejando por las ramas   ](es/ControlFlow.ipynb)      
+- [Ejercicios  ](es/Exercises.ipynb) 
+- [Tuplas   ](es/Tuples.ipynb)
+- [Colecciones   ](es/OnCollections.ipynb) 
+- [Ejercicios  ](es/Exercises.ipynb)
+- [Más sobre Colecciones   ](es/MoreOnCollections.ipynb)
+- [Diccionarios   ](es/Maps.ipynb)
+- [Excepciones   ](es/Exceptions.ipynb)
+- [Ejercicios  ](es/Exercises.ipynb)
+- [El tipo Result   ](es/Results.ipynb)
+- [Unidades de medida   ](es/Units.ipynb) 
+- [Un kata clásico  ](es/Exercises.ipynb)
+- [Secuencias    ](es/YetAnotherTakeOnCollections.ipynb)
+- [Leyendo y escribiendo archivos   ](es/IO.ipynb)
+- [Ejercicios  ](es/Exercises.ipynb) 
+- [Resources   ](es/_resources.ipynb) 
+
+## Introduction
 
 These guides are oriented to those programmers interested in learning some concepts on functional programming, 
 from a practical perspective. F\# is an excelent _first_ functional programming language: it is functional (of course), it has a clean and readable syntax (not a lot of fancy symbols and stuff), it is flexible (in case you need to grasp some other paradigm in the middle of your code) and it is concise enough to express your ideas with clarity. 
@@ -50,18 +80,6 @@ and you are good to go.
 To install the .NET interactive with Jupyer Notebooks, follow the instructions [here](https://github.com/dotnet/interactive/blob/main/docs/NotebookswithJupyter.md). 
 
 
-## Index 
-
-- Fundamentals
-- `let` the fun begin 
-    - Inmutability
-- So what is a function anyway?
-    - Functions in F\# 
-
-- Types 
-    - Thinking with types
-    - Sum type: Discriminated unions
-    - Records
 
 
 ### Resources
