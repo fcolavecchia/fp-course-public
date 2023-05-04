@@ -4,31 +4,31 @@
 
 En español, próximamente en otros idiomas...
 
-- [¿Qué es F#?  ](blob/main/es/Intro.ipynb)
-- [Fundamentos  ](blob/main/es/Fundamentals_new.ipynb)
-- [¿Qué es una función?  ](blob/main/es/Functions_new.ipynb)
-<!-- - [Ejercicios sobre funciones   ](blob/main/es/Exercises.ipynb) -->
-- [Más sobre funciones   ](blob/main/es/MasSobreFunciones.ipynb)    
-- [Pensar con tipos   ](blob/main/es/IntroToTypes_es.ipynb)        
-- [Discriminated Unions  ](blob/main/es/DiscriminatedUnions_es.ipynb) 
-- [Records  ](blob/main/es/Records_es.ipynb)
-<!-- - [Ejercicios de tipos   ](blob/main/es/Exercises.ipynb) -->
-- [Manejando por las ramas   ](blob/main/es/ControlFlow.ipynb)      
-<!-- - [Ejercicios  ](blob/main/es/Exercises.ipynb)  -->
-- [Tuplas   ](blob/main/es/Tuples.ipynb)
-- [Colecciones   ](blob/main/es/OnCollections.ipynb) 
-<!-- - [Ejercicios  ](blob/main/es/Exercises.ipynb) -->
-- [Más sobre Colecciones   ](blob/main/es/MoreOnCollections.ipynb)
-- [Diccionarios   ](blob/main/es/Maps.ipynb)
-- [Excepciones   ](blob/main/es/Exceptions.ipynb)
-<!-- - [Ejercicios  ](blob/main/es/Exercises.ipynb) -->
-- [El tipo Result   ](blob/main/es/Results.ipynb)
-- [Unidades de medida   ](blob/main/es/Units.ipynb) 
-<!-- - [Un kata clásico  ](blob/main/es/Exercises.ipynb) -->
-- [Secuencias    ](blob/main/es/YetAnotherTakeOnCollections.ipynb)
-- [Leyendo y escribiendo archivos   ](blob/main/es/IO.ipynb)
-<!-- - [Ejercicios  ](blob/main/es/Exercises.ipynb)  -->
-- [Resources   ](blob/main/es/_resources.ipynb) 
+- [¿Qué es F#?  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Intro.ipynb)
+- [Fundamentos  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Fundamentals_new.ipynb)
+- [¿Qué es una función?  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Functions_new.ipynb)
+<!-- - [Ejercicios sobre funciones   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb) -->
+- [Más sobre funciones   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/MasSobreFunciones.ipynb)    
+- [Pensar con tipos   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/IntroToTypes_es.ipynb)        
+- [Discriminated Unions  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/DiscriminatedUnions_es.ipynb) 
+- [Records  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Records_es.ipynb)
+<!-- - [Ejercicios de tipos   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb) -->
+- [Manejando por las ramas   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/ControlFlow.ipynb)      
+<!-- - [Ejercicios  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb)  -->
+- [Tuplas   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Tuples.ipynb)
+- [Colecciones   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/OnCollections.ipynb) 
+<!-- - [Ejercicios  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb) -->
+- [Más sobre Colecciones   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/MoreOnCollections.ipynb)
+- [Diccionarios   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Maps.ipynb)
+- [Excepciones   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exceptions.ipynb)
+<!-- - [Ejercicios  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb) -->
+- [El tipo Result   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Results.ipynb)
+- [Unidades de medida   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Units.ipynb) 
+<!-- - [Un kata clásico  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb) -->
+- [Secuencias    ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/YetAnotherTakeOnCollections.ipynb)
+- [Leyendo y escribiendo archivos   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/IO.ipynb)
+<!-- - [Ejercicios  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb)  -->
+- [Resources   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/_resources.ipynb) 
 
 ## Introduction
 
