@@ -1,9 +1,13 @@
 # F#: your first functional programming language
 
+> This is a work in progress, as (my course on F#)[https://ibprogramacionavanzada.github.io/] is progressing
+> the first semester of 2023. Atención, que por ahora la mayoría del contenido es en español.
+
 - [F#: your first functional programming language](#f-your-first-functional-programming-language)
   - [Introduction](#introduction)
   - [Working with the notebooks](#working-with-the-notebooks)
     - [Using binder](#using-binder)
+      - [Fork it!](#fork-it)
     - [Installing polyglot notebooks](#installing-polyglot-notebooks)
   - [Index](#index)
   - [Resources](#resources)
@@ -18,19 +22,19 @@ Learning a new language _and_ a new programming paradigm is a wonderful adventur
 
 This guides are entirely written as Jupyter Notebooks. Yes, it is possible to run F\# in a Jupyter notebook interactive environment, which is fantastic for learning.
 
-[This repository](https://github.com/fcolavecchia/fp-course/tree/binder) contains the Jupyter Notebooks edition of the course. The content is in english in the `en` folder, mientras que el contenido en español está 
-en el directorio `es`. Para los lectores en español, la traducción está hecha en forma automática, con 
-la edición correspondiente en los casos en que el traductor no trabaja adecuadamente. 
+[This repository] contains the Jupyter Notebooks edition of the course. The content is in english in the `en` folder, mientras que el contenido en español está 
+en el directorio `es`. Para los lectores en español, la traducción está hecha en forma automática, con la edición correspondiente en los casos en que el traductor no trabaja adecuadamente. 
 
 > Sin embargo, hasta tanto no se consolide el contenido, dejaré la traducción automática como sale del traductor. Sepan disculpar mis lectores hispano hablantes este detalle por el momento.
 
-The course can also be accesed as a read only content [in my blog](https://flavio.colavecchia.net/blog/).
+The course can also be accesed as a read only content [in my blog](https://flavio.colavecchia.net/blog/), or as a course format in [Programación avanzada](https://ibprogramacionavanzada.github.io/),
+the last one with exercises.
 
 ## Working with the notebooks
 
 ### Using binder
 
-I managed to develop the connection to [Binder](mybinder.org), so you can open the course directly there, just 
+I managed(*) to develop the connection to [Binder](mybinder.org), so you can open the course directly there, just 
 click this button
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fcolavecchia/fp-course.git/binder?labpath=en%2F)
@@ -52,11 +56,15 @@ but that is not the language you are looking for:
 
 and you are good to go.
 
-> I have found instructions on how to build .NET in Binder [here](https://www.macivortech.com/blog/how-to-run-dotnet-on-binder/) and copied config files from [here](https://github.com/oddrationale/AdventOfCode2021FSharp/tree/main/.binder), updated to .NET 7.
+> (*) I have found instructions on how to build .NET in Binder [here](https://www.macivortech.com/blog/how-to-run-dotnet-on-binder/) and copied config files from [here](https://github.com/oddrationale/AdventOfCode2021FSharp/tree/main/.binder), updated to .NET 7.
+>
+#### Fork it!
+
+You can keep your own copy of this repo by forking it. Following the instructions above, you can make all the code editable in your own repo, using binder.
 
 ### Installing polyglot notebooks
 
-To install the .NET interactive with Jupyer Notebooks, follow the instructions [here](https://github.com/dotnet/interactive/blob/main/docs/NotebookswithJupyter.md). 
+If you want to experience the notebooks at your own computer, fork it and install the polyglot notebooks, follow the instructions [here](https://github.com/dotnet/interactive/blob/main/docs/NotebookswithJupyter.md). 
 
 
 
