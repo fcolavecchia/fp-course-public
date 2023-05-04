@@ -1,34 +1,13 @@
 # F#: your first functional programming language
 
-## Index 
+- [F#: your first functional programming language](#f-your-first-functional-programming-language)
+  - [Introduction](#introduction)
+  - [Working with the notebooks](#working-with-the-notebooks)
+    - [Using binder](#using-binder)
+    - [Installing polyglot notebooks](#installing-polyglot-notebooks)
+  - [Index](#index)
+  - [Resources](#resources)
 
-En español, próximamente en otros idiomas...
-
-- [¿Qué es F#?  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Intro.ipynb)
-- [Fundamentos  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Fundamentals_new.ipynb)
-- [¿Qué es una función?  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Functions_new.ipynb)
-<!-- - [Ejercicios sobre funciones   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb) -->
-- [Más sobre funciones   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/MasSobreFunciones.ipynb)    
-- [Pensar con tipos   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/IntroToTypes_es.ipynb)        
-- [Discriminated Unions  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/DiscriminatedUnions_es.ipynb) 
-- [Records  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Records_es.ipynb)
-<!-- - [Ejercicios de tipos   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb) -->
-- [Manejando por las ramas   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/ControlFlow.ipynb)      
-<!-- - [Ejercicios  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb)  -->
-- [Tuplas   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Tuples.ipynb)
-- [Colecciones   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/OnCollections.ipynb) 
-<!-- - [Ejercicios  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb) -->
-- [Más sobre Colecciones   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/MoreOnCollections.ipynb)
-- [Diccionarios   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Maps.ipynb)
-- [Excepciones   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exceptions.ipynb)
-<!-- - [Ejercicios  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb) -->
-- [El tipo Result   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Results.ipynb)
-- [Unidades de medida   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Units.ipynb) 
-<!-- - [Un kata clásico  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb) -->
-- [Secuencias    ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/YetAnotherTakeOnCollections.ipynb)
-- [Leyendo y escribiendo archivos   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/IO.ipynb)
-<!-- - [Ejercicios  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb)  -->
-- [Resources   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/_resources.ipynb) 
 
 ## Introduction
 
@@ -47,9 +26,9 @@ la edición correspondiente en los casos en que el traductor no trabaja adecuada
 
 The course can also be accesed as a read only content [in my blog](https://flavio.colavecchia.net/blog/).
 
-### Working with the notebooks
+## Working with the notebooks
 
-#### Using binder
+### Using binder
 
 I managed to develop the connection to [Binder](mybinder.org), so you can open the course directly there, just 
 click this button
@@ -81,13 +60,37 @@ To install the .NET interactive with Jupyer Notebooks, follow the instructions [
 
 
 
+## Index 
 
-### Resources
+En español, próximamente en otros idiomas...
+
+- [¿Qué es F#?  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Intro.ipynb)
+- [Fundamentos  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Fundamentals_new.ipynb)
+- [¿Qué es una función?  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Functions_new.ipynb)
+<!-- - [Ejercicios sobre funciones   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb) -->
+- [Más sobre funciones   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/MasSobreFunciones.ipynb)    
+- [Pensar con tipos   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/IntroToTypes_es.ipynb)        
+- [Discriminated Unions  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/DiscriminatedUnions_es.ipynb) 
+- [Records  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Records_es.ipynb)
+<!-- - [Ejercicios de tipos   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb) -->
+- [Manejando por las ramas   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/ControlFlow.ipynb)      
+<!-- - [Ejercicios  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb)  -->
+- [Tuplas   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Tuples.ipynb)
+- [Colecciones   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/OnCollections.ipynb) 
+<!-- - [Ejercicios  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb) -->
+- [Más sobre Colecciones   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/MoreOnCollections.ipynb)
+- [Diccionarios   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Maps.ipynb)
+- [Excepciones   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exceptions.ipynb)
+<!-- - [Ejercicios  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb) -->
+- [El tipo Result   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Results.ipynb)
+- [Unidades de medida   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Units.ipynb) 
+<!-- - [Un kata clásico  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb) -->
+- [Secuencias    ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/YetAnotherTakeOnCollections.ipynb)
+- [Leyendo y escribiendo archivos   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/IO.ipynb)
+<!-- - [Ejercicios  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb)  -->
+- [Resources   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/_resources.ipynb) 
+
+
+## Resources
 
 - [The Jupyter notebook edu book](https://jupyter4edu.github.io/jupyter-edu-book/).
-
-
-Coming soon:
-- What `if` say `for` goodbye?
-- To be or not to be, that is the option 
-
