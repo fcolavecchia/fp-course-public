@@ -1,0 +1,134 @@
+El reloj de arena 
+
+JLB
+
+
+
+Está bien que se mida con la dura
+
+Sombra que una columna en el estío
+
+Arroja o con el agua de aquel río
+
+En que Heráclito vio nuestra locura
+
+
+
+El _tiempo_, ya que al _tiempo_ y al destino
+
+Se parecen los dos: la imponderable
+
+Sombra diurna y el curso irrevocable
+
+Del agua que prosigue su camino.
+
+
+
+Está bien, pero el _tiempo_ en los desiertos
+
+Otra substancia halló, suave y pesada,
+
+Que parece haber sido imaginada
+
+Para medir el _tiempo_ de los muertos.
+
+
+
+Surge así el alegórico instrumento
+
+De los grabados de los diccionarios,
+
+La pieza que los grises anticuarios
+
+Relegarán al mundo ceniciento
+
+
+
+Del alfil desparejo, de la espada
+
+Inerme, del borroso telescopio,
+
+Del sándalo mordido por el opio
+
+Del polvo, del azar y de la nada.
+
+
+
+¿Quién no se ha demorado ante el severo
+
+Y tétrico instrumento que acompaña
+
+En la diestra del dios a la guadaña
+
+Y cuyas líneas repitió Durero?
+
+
+
+Por el ápice abierto el cono inverso
+
+Deja caer la cautelosa arena,
+
+Oro gradual que se desprende y llena
+
+El cóncavo cristal de su universo.
+
+
+
+Hay un agrado en observar la arcana
+
+Arena que resbala y que declina
+
+Y, a punto de caer, se arremolina
+
+Con una prisa que es del todo humana.
+
+
+
+La arena de los ciclos es la misma
+
+E infinita es la historia de la arena;
+
+Así, bajo tus dichas o tu pena,
+
+La invulnerable eternidad se abisma.
+
+
+
+No se detiene nunca la caída
+
+Yo me desangro, no el cristal. El rito
+
+De decantar la arena es infinito
+
+Y con la arena se nos va la vida.
+
+
+
+En los minutos de la arena creo
+
+Sentir el _tiempo_ cósmico: la historia
+
+Que encierra en sus espejos la memoria
+
+O que ha disuelto el mágico Leteo.
+
+
+
+El pilar de humo y el pilar de fuego,
+
+Cartago y Roma y su apretada guerra,
+
+Simón Mago, los siete pies de tierra
+
+Que el rey sajón ofrece al rey noruego,
+
+
+
+Todo lo arrastra y pierde este incansable
+
+Hilo sutil de arena numerosa.
+
+No he de salvarme yo, fortuita cosa
+
+De _tiempo_, que es materia deleznable.
+
