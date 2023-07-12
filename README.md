@@ -1,35 +1,18 @@
 # F#: your first functional programming language
 
+## About the course 
 
+These guides are oriented to those programmers interested in learning some concepts on functional programming, 
+from a practical perspective. F\# is an excelent _first_ functional programming language: it is functional (of course), it has a clean and readable syntax (not a lot of fancy symbols and stuff), it is flexible (in case you need to grasp some other paradigm in the middle of your code) and it is concise enough to express your ideas with clarity. 
 
-- [F#: your first functional programming language](#f-your-first-functional-programming-language)
-  - [Quick start](#quick-start)
-    - [Quick tour](#quick-tour)
-    - [Fork it](#fork-it)
-    - [Using binder to run on the web](#using-binder-to-run-on-the-web)
-    - [Installing polyglot notebooks to run in your own computer](#installing-polyglot-notebooks-to-run-in-your-own-computer)
-  - [About the course](#about-the-course)
-- [Index](#index)
-  - [Introduction to F#](#introduction-to-f)
-  - [Functions](#functions)
-  - [Types](#types)
-  - [Control Flow](#control-flow)
-  - [On collections](#on-collections)
-  - [More on collections](#more-on-collections)
-  - [Managing Errors](#managing-errors)
-  - [Units of measure](#units-of-measure)
-  - [Intermezzo: A classic Kata](#intermezzo-a-classic-kata)
-  - [Yet another take on collections](#yet-another-take-on-collections)
-  - [Intermezzo: Exercises](#intermezzo-exercises)
-  - [Input/Output](#inputoutput)
-  - [Processing structured data files](#processing-structured-data-files)
-  - [Welcome to .NET!](#welcome-to-net)
-  - [Tests](#tests)
-  - [Coda: More exercises](#coda-more-exercises)
-  - [Resources](#resources)
-  - [Resources](#resources-1)
+Learning a new language _and_ a new programming paradigm is a wonderful adventure. You do not need any special preparation, although I assume that the reader has some background in at least one popular language (let us say C, Python, Java or JavaScript, for example). 
 
-> This is a work in progress, based on [my course on F#](https://ibprogramacionavanzada.github.io/) of the first semester of 2023. 
+This guides are entirely written as Jupyter Notebooks. Yes, it is possible to run F\# in a Jupyter notebook interactive environment, which is fantastic for learning.
+
+The course can also be accesed as a read only content in [Programación avanzada](https://ibprogramacionavanzada.github.io/), en español.
+
+> The course was produced originally in spanish, the english version was generated automagically. Hopefully you can tolerate this, until the course settles down and I can have some time to proofread 
+> that translation. If you need the course in other language, you can use [nbTranslate](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/nbTranslate/README.html), a [Jupyter notebook extension](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) that creates multilanguage notebooks by translating the content using google translate. Follow the instructions in those sites to get it work.
 
 ## Quick start
 
@@ -76,21 +59,6 @@ and you are good to go.
 
 If you want to experience the notebooks at your own computer, you need to install the [polyglot extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode), and follow the instructions there.
 
-## About the course 
-
-These guides are oriented to those programmers interested in learning some concepts on functional programming, 
-from a practical perspective. F\# is an excelent _first_ functional programming language: it is functional (of course), it has a clean and readable syntax (not a lot of fancy symbols and stuff), it is flexible (in case you need to grasp some other paradigm in the middle of your code) and it is concise enough to express your ideas with clarity. 
-
-Learning a new language _and_ a new programming paradigm is a wonderful adventure. You do not need any special preparation, although I assume that the reader has some background in at least one popular language (let us say C, Python, Java or JavaScript, for example). 
-
-This guides are entirely written as Jupyter Notebooks. Yes, it is possible to run F\# in a Jupyter notebook interactive environment, which is fantastic for learning.
-
-> The course was produced in spanish, the english version was generated automagically. Hopefully
-> you can tolerate this, until the course settles down and a carefull reading of this version
-> can be done. If you need the course in other language, you can use [nbTranslate](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/nbTranslate/README.html), a [Jupyter notebook extension](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) that creates multilanguage notebooks by translating the content using google translate. Follow the instructions in those sites to get it work.
-
-The course can also be accesed as a read only content [in my blog](https://flavio.colavecchia.net/blog/), or as a course format in [Programación avanzada](https://ibprogramacionavanzada.github.io/), 
-en español.
 
 # Index 
 
@@ -166,8 +134,3 @@ en español.
 
 ## [Resources](https://github.com/fcolavecchia/fp-course-public/blob/main/en/Resources.ipynb)
 
-
-## Resources
-
-- [The Jupyter notebook edu book](https://jupyter4edu.github.io/jupyter-edu-book/).
-- Instructions on how to build .NET in Binder [here](https://www.macivortech.com/blog/how-to-run-dotnet-on-binder/) and copied config files from [here](https://github.com/oddrationale/AdventOfCode2021FSharp/tree/main/.binder), updated to .NET 7.
