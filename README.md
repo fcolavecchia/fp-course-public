@@ -8,16 +8,28 @@
     - [Fork it](#fork-it)
     - [Using binder to run on the web](#using-binder-to-run-on-the-web)
     - [Installing polyglot notebooks to run in your own computer](#installing-polyglot-notebooks-to-run-in-your-own-computer)
-  - [I do not read spanish (No leo español)](#i-do-not-read-spanish-no-leo-español)
   - [About the course](#about-the-course)
-  - [Index](#index)
+- [Index](#index)
+  - [Introduction to F#](#introduction-to-f)
+  - [Functions](#functions)
+  - [Types](#types)
+  - [Control Flow](#control-flow)
+  - [On collections](#on-collections)
+  - [More on collections](#more-on-collections)
+  - [Managing Errors](#managing-errors)
+  - [Units of measure](#units-of-measure)
+  - [Intermezzo: A classic Kata](#intermezzo-a-classic-kata)
+  - [Yet another take on collections](#yet-another-take-on-collections)
+  - [Intermezzo: Exercises](#intermezzo-exercises)
+  - [Input/Output](#inputoutput)
+  - [Processing structured data files](#processing-structured-data-files)
+  - [Welcome to .NET!](#welcome-to-net)
+  - [Tests](#tests)
+  - [Coda: More exercises](#coda-more-exercises)
   - [Resources](#resources)
+  - [Resources](#resources-1)
 
-
-
-
-> This is a work in progress, as [my course on F#](https://ibprogramacionavanzada.github.io/) is moving through
-> the first semester of 2023. 
+> This is a work in progress, based on [my course on F#](https://ibprogramacionavanzada.github.io/) of the first semester of 2023. 
 
 ## Quick start
 
@@ -27,13 +39,13 @@ The course is structured as a collection of [Polyglot Jupyter Notebooks](https:/
 
 Just open this repo in MyBinder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fcolavecchia/fp-course-public.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fcolavecchia/fp-course-public.git/main?urlpath=en/00_Index.ipynb)
 
 Give it a little time, and this will open the notebooks in My Binder.
 
 ### Fork it
 
-You can keep your own copy of this repo by forking it. Following the instructions above, you can make all the code editable in your own repo, using binder.
+You can keep your own copy of this repo by [forking it](https://github.com/fcolavecchia/fp-course-public). Once you have your own copy, you can make all the code editable in your own repo, using binder, as explained below.
 
 ### Using binder to run on the web
 
@@ -60,19 +72,9 @@ but that is not the language you are looking for:
 
 and you are good to go.
 
-
->
 ### Installing polyglot notebooks to run in your own computer
 
 If you want to experience the notebooks at your own computer, you need to install the [polyglot extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode), and follow the instructions there.
-
-
-## I do not read spanish (No leo español)
-
-No problem, until I manage to translate the content (which can take a while...), and if you can tolerate the automagic translation, you can use [nbTranslate](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/nbTranslate/README.html), a [Jupyter notebook extension](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) that creates multilanguage notebooks by translating the content using google translate. Follow the instructions in those sites to get it work.
-
-
-
 
 ## About the course 
 
@@ -83,42 +85,86 @@ Learning a new language _and_ a new programming paradigm is a wonderful adventur
 
 This guides are entirely written as Jupyter Notebooks. Yes, it is possible to run F\# in a Jupyter notebook interactive environment, which is fantastic for learning.
 
-This repository contains the Jupyter Notebooks edition of the course. El contenido **más completo** está en español 
-en el directorio `es`.
+> The course was produced in spanish, the english version was generated automagically. Hopefully
+> you can tolerate this, until the course settles down and a carefull reading of this version
+> can be done. If you need the course in other language, you can use [nbTranslate](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/nbTranslate/README.html), a [Jupyter notebook extension](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) that creates multilanguage notebooks by translating the content using google translate. Follow the instructions in those sites to get it work.
 
-> As stated before, you can install the proper tools to translate the notebooks to your language of choice.
+The course can also be accesed as a read only content [in my blog](https://flavio.colavecchia.net/blog/), or as a course format in [Programación avanzada](https://ibprogramacionavanzada.github.io/), 
+en español.
 
-The course can also be accesed as a read only content [in my blog](https://flavio.colavecchia.net/blog/), or as a course format in [Programación avanzada](https://ibprogramacionavanzada.github.io/), the last one with exercises.
+# Index 
 
-## Index 
+## [Introduction to F#](https://github.com/fcolavecchia/fp-course-public/blob/main/en/00_Intro.ipynb)
 
-Most of the notebooks names are self-explanatory, but here it is the index for a clearer organization:
+## Functions 
+  
+  - [Fundamentals](https://github.com/fcolavecchia/fp-course-public/blob/main/en/01_Fundamentals.ipynb)
+  - [Functions](https://github.com/fcolavecchia/fp-course-public/blob/main/en/02_Functions.ipynb)
+  - [Exercises](https://github.com/fcolavecchia/fp-course-public/blob/main/en/03_Exercises.ipynb)
+  - [More on Functions](https://github.com/fcolavecchia/fp-course-public/blob/main/en/10_MoreOnFunctions.ipynb)  
 
-- [¿Qué es F#?  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Intro.ipynb)
-- [Fundamentos  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Fundamentals_new.ipynb)
-- [¿Qué es una función?  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Functions_new.ipynb)
-<!-- - [Ejercicios sobre funciones   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb) -->
-- [Más sobre funciones   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/MasSobreFunciones.ipynb)    
-- [Pensar con tipos   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/IntroToTypes_es.ipynb)        
-- [Discriminated Unions  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/DiscriminatedUnions_es.ipynb) 
-- [Records  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Records_es.ipynb)
-<!-- - [Ejercicios de tipos   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb) -->
-- [Manejando por las ramas   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/ControlFlow.ipynb)      
-<!-- - [Ejercicios  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb)  -->
-- [Tuplas   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Tuples.ipynb)
-- [Colecciones   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/OnCollections.ipynb) 
-<!-- - [Ejercicios  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb) -->
-- [Más sobre Colecciones   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/MoreOnCollections.ipynb)
-- [Diccionarios   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Maps.ipynb)
-- [Excepciones   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exceptions.ipynb)
-<!-- - [Ejercicios  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb) -->
-- [El tipo Result   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Results.ipynb)
-- [Unidades de medida   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Units.ipynb) 
-<!-- - [Un kata clásico  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb) -->
-- [Secuencias    ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/YetAnotherTakeOnCollections.ipynb)
-- [Leyendo y escribiendo archivos   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/IO.ipynb)
-<!-- - [Ejercicios  ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/Exercises.ipynb)  -->
-- [Resources   ](https://github.com/fcolavecchia/fp-course-public/blob/main/es/_resources.ipynb) 
+## Types
+
+  - [An Introduction to types](https://github.com/fcolavecchia/fp-course-public/blob/main/en/11_IntroToTypes.ipynb)        
+  - [Discriminated Unions](https://github.com/fcolavecchia/fp-course-public/blob/main/en/12_DiscriminatedUnions.ipynb) 
+  - [Records](https://github.com/fcolavecchia/fp-course-public/blob/main/en/13_Records.ipynb)
+  - [Exercises](https://github.com/fcolavecchia/fp-course-public/blob/main/en/14_Exercises.ipynb)
+
+## Control Flow 
+
+  - [Driving around the code with `if`, recursion and _pattern matching_](https://github.com/fcolavecchia/fp-course-public/blob/main/en/20_ControlFlow.ipynb)      
+  - [Exercises](https://github.com/fcolavecchia/fp-course-public/blob/main/en/21_Exercises.ipynb)  
+
+## On collections 
+
+  - [Heterogeneous collections](https://github.com/fcolavecchia/fp-course-public/blob/main/en/30_Tuples.ipynb)
+  - [Homogeneous collections](https://github.com/fcolavecchia/fp-course-public/blob/main/en/31_OnCollections.ipynb) 
+  - [Exercises](https://github.com/fcolavecchia/fp-course-public/blob/main/en/33_Exercises.ipynb)
+
+## More on collections 
+
+  - [More on collections](https://github.com/fcolavecchia/fp-course-public/blob/main/en/40_MoreOnCollections.ipynb)
+  - [Maps](https://github.com/fcolavecchia/fp-course-public/blob/main/en/41_Maps.ipynb)
+  - [Exercises](https://github.com/fcolavecchia/fp-course-public/blob/main/en/43_Exercises.ipynb)
+
+## Managing Errors 
+
+  - [Exceptions](https://github.com/fcolavecchia/fp-course-public/blob/main/en/42_Exceptions.ipynb)
+  - [The `Result` type](https://github.com/fcolavecchia/fp-course-public/blob/main/en/50_Results.ipynb)
+
+## [Units of measure](https://github.com/fcolavecchia/fp-course-public/blob/main/en/51_Units.ipynb) 
+
+## Intermezzo: [A classic Kata](https://github.com/fcolavecchia/fp-course-public/blob/main/en/53_Exercises.ipynb)
+
+## [Yet another take on collections](https://github.com/fcolavecchia/fp-course-public/blob/main/en/60_YetAnotherTakeOnCollections.ipynb)
+
+## Intermezzo: [Exercises](https://github.com/fcolavecchia/fp-course-public/blob/main/en/63_Exercises.ipynb) 
+
+## Input/Output 
+  
+  - [Basics](https://github.com/fcolavecchia/fp-course-public/blob/main/en/61_IO.ipynb)
+  - [Back to the Vending Machine](https://github.com/fcolavecchia/fp-course-public/blob/main/en/70_VendingMachineReadFood.ipynb)
+  - [Exercises](https://github.com/fcolavecchia/fp-course-public/blob/main/en/73_Exercises.ipynb) 
+
+## Processing structured data files
+  - [Type Providers](https://github.com/fcolavecchia/fp-course-public/blob/main/en/80_TypeProviders.ipynb)
+  - [Exercises](https://github.com/fcolavecchia/fp-course-public/blob/main/en/83_Exercises.ipynb) 
+  
+## Welcome to .NET! 
+  - [.Net projects and solutions](https://github.com/fcolavecchia/fp-course-public/blob/main/en/90_Dotnet.ipynb)
+  - [Exercises](https://github.com/fcolavecchia/fp-course-public/blob/main/en/93_Exercises.ipynb)
+
+## Tests
+  - [Basics](https://github.com/fcolavecchia/fp-course-public/blob/main/en/A0_Tests.ipynb) 
+  - [Exercises](https://github.com/fcolavecchia/fp-course-public/blob/main/en/A3_Exercises.ipynb) 
+
+## Coda: More exercises  
+
+  - [The Gilded Rose Kata](https://github.com/fcolavecchia/fp-course-public/blob/main/en/B_GildedRose.ipynb)
+  - [Advent of Code, day 2](https://github.com/fcolavecchia/fp-course-public/blob/main/en/C_AdventOfCodeDay2.ipynb)
+  - [Terminal Frost games](https://github.com/fcolavecchia/fp-course-public/blob/main/en/F_inal_2023.ipynb)
+
+## [Resources](https://github.com/fcolavecchia/fp-course-public/blob/main/en/Resources.ipynb)
 
 
 ## Resources
