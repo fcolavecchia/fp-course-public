@@ -60,7 +60,7 @@ and you are good to go.
 If you want to experience the notebooks at your own computer, you need to install the [polyglot extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode), and follow the instructions there.
 
 
-# Index 
+# Syllabus 
 
 ## [Introduction to F#](https://github.com/fcolavecchia/fp-course-public/blob/main/en/00_Intro.ipynb)
 
