@@ -1,4 +1,4 @@
-#  Hacé F# tu primer lenguaje funcional de programación
+#  Hacé F# tu primer lenguaje  de programación funcional
 
 >If you are interested in the english version, see [README.md](https://github.com/fcolavecchia/fp-course-public/blob/main/README.md)
 > 
