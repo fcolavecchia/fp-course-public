@@ -123,8 +123,12 @@ Si deseas experimentar con los cuadernos en tu propia computadora, necesitas ins
 
 ### Procesando archivos de datos estructurados
 - [Type Providers](https://github.com/fcolavecchia/fp-course-public/blob/main/es/80_TypeProviders.ipynb)
-- [Ejercicios](https://github.com/fcolavecchia/fp-course-public/blob/main/es/83_Exercises.ipynb) 
-  
+- [Ejercicios](https://github.com/fcolavecchia/fp-course-public/blob/main/es/81_Exercises.ipynb)
+- [Explorando Exoplanetas con Type Providers y Plotly: Parte 1](https://github.com/fcolavecchia/fp-course-public/blob/main/es/82_Exoplanets.ipynb)
+- [Explorando Exoplanetas con Type Providers y Plotly: Parte 2](https://github.com/fcolavecchia/fp-course-public/blob/main/es/83_Plotting.ipynb.ipynb)  
+- [Explorando Exoplanetas con Type Providers y Plotly: Parte 3](https://github.com/fcolavecchia/fp-course-public/blob/main/es/84_AddSliderPlotly.ipynb)
+
+
 ### Bienvenido a .NET! 
 - [Proyectos y soluciones en .NET](https://github.com/fcolavecchia/fp-course-public/blob/main/es/90_Dotnet.ipynb)
 - [Ejercicios](https://github.com/fcolavecchia/fp-course-public/blob/main/es/93_Exercises.ipynb)
