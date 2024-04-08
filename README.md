@@ -1,5 +1,13 @@
 # Make F# your first functional programming language
 
+From outside Argentina, you can
+
+<a href="https://www.buymeacoffee.com/flavioc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+En Argentina ([⭐️⭐️⭐️](https://www.google.com/search?sxsrf=AB5stBhaoXbELdiYcGYn7LFGYKB5MFJghw:1689278838922&q=tapas+diarios+argentina+campeon&tbm=isch&source=univ&fir=qHsD8jNqiBcR9M%252CU5M3nzbfNCNn8M%252C_%253B7lmgd4_tqxBr0M%252CTb5831L19eaXcM%252C_%253Bxkamwj7oGERHKM%252CTb5831L19eaXcM%252C_%253Bf811CjKb2LLh7M%252C6IbX8QPfQ6R-DM%252C_%253BvmanPOo9DcX_oM%252Cf5SKLsrn8UfPGM%252C_%253BG3kgOTfPZp1rEM%252CU5M3nzbfNCNn8M%252C_%253ByAGLp8C-7HBuaM%252Cf5SKLsrn8UfPGM%252C_%253BE1ymLFohpM5KnM%252CNUdpLYYeU0KINM%252C_%253BItgEyKk9MEK-bM%252CTb5831L19eaXcM%252C_%253Bmen7RXX3I3w1JM%252CqckwzAwT3VRJQM%252C_%253B6YT2RZN5uLw1BM%252CMfkxFsfwjq9IsM%252C_%253BdcLhUOM3R1ox_M%252Cf5SKLsrn8UfPGM%252C_%253B6it-AccCwiaQDM%252CNTrBj-F-R3FTuM%252C_%253Bdk-DC8MACwI8RM%252CBm6aDjdldCzeKM%252C_%253BMiSESfwPCDZDVM%252C6IbX8QPfQ6R-DM%252C_%253Bw6MLsP6bc25E5M%252CmR8TtUtR6UUpvM%252C_%253B7YN4ps_NYgQ57M%252CNUdpLYYeU0KINM%252C_%253BJb_wAw717kA0CM%252Ce2JcT5Tr2HlqvM%252C_&usg=AI4_-kSS5BeL8NRNJld05TDcYoXr3u9QXQ&sa=X&ved=2ahUKEwirhPuIvoyAAxUNpJUCHeYpB5gQjJkEegQIDhAC&biw=1808&bih=1276&dpr=2))
+
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_1.svg)](https://cafecito.app/flavioc)
+
 > Si te interesa el contenido en español, mirá [LEEME.md](https://github.com/fcolavecchia/fp-course-public/blob/main/LEEME.md)
 ## About the course 
 
@@ -130,7 +138,10 @@ No problem! Simply copy/paste the codes from the notebooks in the repo into [Fab
 
 ### Processing structured data files
 - [Type Providers](https://github.com/fcolavecchia/fp-course-public/blob/main/en/80_TypeProviders.ipynb)
-- [Exercises](https://github.com/fcolavecchia/fp-course-public/blob/main/en/83_Exercises.ipynb) 
+- [Exercises](https://github.com/fcolavecchia/fp-course-public/blob/main/en/81_Exercises.ipynb) 
+- [Exploring exoplanets with Type Providers and Plotly: Part 1](https://github.com/fcolavecchia/fp-course-public/blob/main/en/82_Exoplanets.ipynb)
+- [Exploring exoplanets with Type Providers and Plotly: Part 2](https://github.com/fcolavecchia/fp-course-public/blob/main/en/83_Plotting.ipynb.ipynb)  
+- [Exploring exoplanets with Type Providers and Plotly: Part 3](https://github.com/fcolavecchia/fp-course-public/blob/main/en/84_AddSliderPlotly.ipynb)
   
 ### Welcome to .NET! 
 - [.Net projects and solutions](https://github.com/fcolavecchia/fp-course-public/blob/main/en/90_Dotnet.ipynb)
@@ -219,10 +230,3 @@ A [playlist of videos](https://youtube.com/playlist?list=PLnMc6Rr34vPYU5liVvEL_i
 - Instructions on how to build .NET to work Binder [here](https://www.macivortech.com/blog/how-to-run-dotnet-on-binder/) and copied config files from [here](https://github.com/oddrationale/AdventOfCode2021FSharp/tree/main/.binder), updated to .NET 7.
 
 
-From outside Argentina, you can
-
-<a href="https://www.buymeacoffee.com/flavioc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-En Argentina ([⭐️⭐️⭐️](https://www.google.com/search?sxsrf=AB5stBhaoXbELdiYcGYn7LFGYKB5MFJghw:1689278838922&q=tapas+diarios+argentina+campeon&tbm=isch&source=univ&fir=qHsD8jNqiBcR9M%252CU5M3nzbfNCNn8M%252C_%253B7lmgd4_tqxBr0M%252CTb5831L19eaXcM%252C_%253Bxkamwj7oGERHKM%252CTb5831L19eaXcM%252C_%253Bf811CjKb2LLh7M%252C6IbX8QPfQ6R-DM%252C_%253BvmanPOo9DcX_oM%252Cf5SKLsrn8UfPGM%252C_%253BG3kgOTfPZp1rEM%252CU5M3nzbfNCNn8M%252C_%253ByAGLp8C-7HBuaM%252Cf5SKLsrn8UfPGM%252C_%253BE1ymLFohpM5KnM%252CNUdpLYYeU0KINM%252C_%253BItgEyKk9MEK-bM%252CTb5831L19eaXcM%252C_%253Bmen7RXX3I3w1JM%252CqckwzAwT3VRJQM%252C_%253B6YT2RZN5uLw1BM%252CMfkxFsfwjq9IsM%252C_%253BdcLhUOM3R1ox_M%252Cf5SKLsrn8UfPGM%252C_%253B6it-AccCwiaQDM%252CNTrBj-F-R3FTuM%252C_%253Bdk-DC8MACwI8RM%252CBm6aDjdldCzeKM%252C_%253BMiSESfwPCDZDVM%252C6IbX8QPfQ6R-DM%252C_%253Bw6MLsP6bc25E5M%252CmR8TtUtR6UUpvM%252C_%253B7YN4ps_NYgQ57M%252CNUdpLYYeU0KINM%252C_%253BJb_wAw717kA0CM%252Ce2JcT5Tr2HlqvM%252C_&usg=AI4_-kSS5BeL8NRNJld05TDcYoXr3u9QXQ&sa=X&ved=2ahUKEwirhPuIvoyAAxUNpJUCHeYpB5gQjJkEegQIDhAC&biw=1808&bih=1276&dpr=2))
-
-[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_1.svg)](https://cafecito.app/flavioc)
